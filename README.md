@@ -6,11 +6,10 @@ I'm an 19-year-old tech enthusiast from Egypt 🇪🇬, passionate about coding,
 
 ## 🛠️ What I Do
 
-- 🔹 **Full-Stack Web Development** (currently relearning from scratch!)
+- 🔹 **Front-End Web Development** (currently relearning from scratch!)
 - 🔹 **Discord Bots Development** (using `discord.js` & `DJS Commander`)
-- 🔹 **Linux Enthusiast** (Arch & Ubuntu user)
+- 🔹 **Linux Enthusiast** (Arch User)
 - 🔹 **Guitar Player** 🎸
-- 🔹 **Book Lover** 📖
 
 ## 💡 Current Projects
 
