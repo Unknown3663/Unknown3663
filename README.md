@@ -10,7 +10,7 @@ Front‑End • Discord Bots • React Native • Arch Linux • Guitarist 🎸
 ---
 
 ## 🚀 About Me
-I'm a 19-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tourism Guidance**. I love building things for the web, tinkering with Linux (btw), and automating little pieces of life with code.
+I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tourism Guidance**. I love building things for the web, tinkering with Linux (btw), and automating little pieces of life with code.
 
 - 💻 Relearning and solidifying **Front‑End fundamentals**
 - 🤖 Building **Discord bots** with `discord.js` and `DJS Commander`
