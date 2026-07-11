@@ -31,6 +31,7 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
   ![Codex](https://img.shields.io/badge/Codex-10B981?style=flat)
   ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=flat)
   ![Open Code](https://img.shields.io/badge/Open_Code-F59E0B?style=flat)
+  ![Cursor](https://img.shields.io/badge/Cursor-06B6D4?style=flat)
 
 - Dev & OS:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
