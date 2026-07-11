@@ -66,9 +66,9 @@ I love experimenting with different Linux distros, and I always end up breaking 
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknown3663&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Unknown3663&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Unknown3663&theme=transparent&hide_border=true" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown3663&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown3663&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top Languages" height="160" />
 </details>
 
 ---
