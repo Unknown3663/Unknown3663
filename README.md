@@ -27,10 +27,10 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 
 - Tools:
-  ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat)
-  ![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
-  ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat)
-  ![Open Code](https://img.shields.io/badge/Open_Code-000000?style=flat)
+  ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat)
+  ![Codex](https://img.shields.io/badge/Codex-10B981?style=flat)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=flat)
+  ![Open Code](https://img.shields.io/badge/Open_Code-F59E0B?style=flat)
 
 - Dev & OS:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
