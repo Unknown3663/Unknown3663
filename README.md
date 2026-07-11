@@ -1,6 +1,6 @@
 # Hi there, I'm Ezzat! 👋
 
-Front‑End • Discord Bots • React Native • Arch Linux • Guitarist 🎸
+Front‑End • Arch Linux • Guitarist 🎸
 
 [![Follow @Unknown3663](https://img.shields.io/github/followers/Unknown3663?label=Follow%20%40Unknown3663&style=for-the-badge)](https://github.com/Unknown3663?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=Unknown3663&style=for-the-badge&color=blueviolet)
@@ -10,18 +10,11 @@ Front‑End • Discord Bots • React Native • Arch Linux • Guitarist 🎸
 ---
 
 ## 🚀 About Me
-I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tourism Guidance**. I love building things for the web, tinkering with Linux (btw), and automating little pieces of life with code.
+I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tourism Guidance**. I love building things for the web, tinkering with Linux (btw), and automating little pieces of life.
 
 - 💻 Relearning and solidifying **Front‑End fundamentals**
-- 🤖 Building **Discord bots** with `discord.js` and `DJS Commander`
 - 🐧 Daily driver: **Arch Linux**
 - 🎸 When I’m not coding, I’m probably playing guitar
-
----
-
-## 🔭 Current Focus
-- 📱 Crafting my own **“life organization”** mobile app with **React Native**  
-  Helping me track tasks, habits, notes, and routines — clean, minimal, and personal-first.
 
 ---
 
@@ -29,11 +22,15 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 - Languages & Frameworks:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/Node.js-233056?style=flat&logo=node.js)
-  ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat&logo=discord&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+- Tools:
+  ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat)
+  ![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat)
+  ![Open Code](https://img.shields.io/badge/Open_Code-000000?style=flat)
 
 - Dev & OS:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,7 +43,6 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 
 ## 🛠️ What I Do
 - 🔹 **Front‑End Web Development**
-- 🔹 **Discord Bots Development** (`discord.js`, `DJS Commander`)
 - 🔹 **Linux Enthusiast** (Arch user)
 - 🔹 **Guitar Player** 🎸
 
