@@ -2,10 +2,11 @@
 
 Front‑End • Arch Linux • Guitarist 🎸
 
-[![Follow @Unknown3663](https://img.shields.io/github/followers/Unknown3663?label=Follow%20%40Unknown3663&style=for-the-badge)](https://github.com/Unknown3663?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=Unknown3663&style=for-the-badge&color=blueviolet)
-[![Email](https://img.shields.io/badge/Email-ezzatmagedsamir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzatmagedsamir@gmail.com)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+<p>
+  <a href="https://github.com/Unknown3663?tab=followers"><img src="assets/icons/github.svg" width="34" height="34" title="Follow @Unknown3663" alt="Follow @Unknown3663" /></a>
+  <a href="mailto:ezzatmagedsamir@gmail.com"><img src="assets/icons/email.svg" width="34" height="34" title="Email Ezzat" alt="Email Ezzat" /></a>
+  <img src="assets/icons/archlinux.svg" width="34" height="34" title="Arch Linux" alt="Arch Linux" />
+</p>
 
 ---
 
@@ -20,25 +21,19 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 
 ## 🧰 Tech & Tools I Use
 - Languages & Frameworks:  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-233056?style=flat&logo=node.js)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+  <img src="assets/icons/javascript.svg" width="36" height="36" title="JavaScript" alt="JavaScript" />
+  <img src="assets/icons/react.svg" width="36" height="36" title="React" alt="React" />
+  <img src="assets/icons/nodejs.svg" width="36" height="36" title="Node.js" alt="Node.js" />
+  <img src="assets/icons/html5.svg" width="36" height="36" title="HTML5" alt="HTML5" />
+  <img src="assets/icons/css.svg" width="36" height="36" title="CSS" alt="CSS" />
 
-- Tools:
-  ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat)
-  ![Codex](https://img.shields.io/badge/Codex-10B981?style=flat)
-  ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=flat)
-  ![Open Code](https://img.shields.io/badge/Open_Code-F59E0B?style=flat)
-  ![Cursor](https://img.shields.io/badge/Cursor-06B6D4?style=flat)
+- Tools: `Claude Code` · `Codex` · `Antigravity` · `OpenCode` · `Cursor`
 
 - Dev & OS:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+  <img src="assets/icons/git.svg" width="36" height="36" title="Git" alt="Git" />
+  <img src="assets/icons/github.svg" width="36" height="36" title="GitHub" alt="GitHub" />
+  <img src="assets/icons/archlinux.svg" width="36" height="36" title="Arch Linux" alt="Arch Linux" />
+  Linux · VS Code
 
 ---
 
@@ -57,19 +52,6 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 
 ## ⚡ Fun Fact
 I love experimenting with different Linux distros, and I always end up breaking something before fixing it again! 😆
-
----
-
-## 📊 GitHub Stats
-<details>
-  <summary>Show stats</summary>
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Unknown3663&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Unknown3663&theme=transparent&hide_border=true" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown3663&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top Languages" height="160" />
-</details>
 
 ---
 
