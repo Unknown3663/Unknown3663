@@ -20,7 +20,7 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 
 ## 🧰 Tech & Tools I Use
 <p>
-  <strong>Languages &amp; Frameworks</strong>&nbsp;&nbsp;
+  <strong>Languages &amp; Frameworks</strong><br />
   <img src="assets/icons/javascript.svg" width="32" height="32" title="JavaScript" alt="JavaScript" />&nbsp;
   <img src="assets/icons/react.svg" width="32" height="32" title="React" alt="React" />&nbsp;
   <img src="assets/icons/nodejs.svg" width="32" height="32" title="Node.js" alt="Node.js" />&nbsp;
@@ -29,7 +29,7 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 </p>
 
 <p>
-  <strong>Tools</strong>&nbsp;&nbsp;
+  <strong>Tools</strong><br />
   <img src="assets/icons/anthropic.svg" width="32" height="32" title="Claude Code" alt="Claude Code" />&nbsp;
   <img src="assets/icons/codex.svg" width="32" height="32" title="Codex" alt="Codex" />&nbsp;
   <img src="assets/icons/antigravity.svg" width="32" height="32" title="Antigravity" alt="Antigravity" />&nbsp;
@@ -37,7 +37,7 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 </p>
 
 <p>
-  <strong>Dev &amp; OS</strong>&nbsp;&nbsp;
+  <strong>Dev &amp; OS</strong><br />
   <img src="assets/icons/git.svg" width="32" height="32" title="Git" alt="Git" />&nbsp;
   <img src="assets/icons/github.svg" width="32" height="32" title="GitHub" alt="GitHub" />&nbsp;
   <img src="assets/icons/linux.svg" width="32" height="32" title="Linux" alt="Linux" />&nbsp;
