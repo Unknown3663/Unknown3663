@@ -27,13 +27,19 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
   <img src="assets/icons/html5.svg" width="36" height="36" title="HTML5" alt="HTML5" />
   <img src="assets/icons/css.svg" width="36" height="36" title="CSS" alt="CSS" />
 
-- Tools: `Claude Code` · `Codex` · `Antigravity` · `OpenCode` · `Cursor`
+- Tools:<br />
+  <img src="assets/icons/anthropic.svg" width="36" height="36" title="Claude Code" alt="Claude Code" />
+  <img src="assets/icons/codex.svg" width="36" height="36" title="Codex" alt="Codex" />
+  <img src="assets/icons/antigravity.svg" width="36" height="36" title="Antigravity" alt="Antigravity" />
+  <img src="assets/icons/opencode.svg" width="36" height="36" title="OpenCode" alt="OpenCode" />
+  <img src="assets/icons/cursor.svg" width="36" height="36" title="Cursor" alt="Cursor" />
 
 - Dev & OS:  
   <img src="assets/icons/git.svg" width="36" height="36" title="Git" alt="Git" />
   <img src="assets/icons/github.svg" width="36" height="36" title="GitHub" alt="GitHub" />
+  <img src="assets/icons/linux.svg" width="36" height="36" title="Linux" alt="Linux" />
   <img src="assets/icons/archlinux.svg" width="36" height="36" title="Arch Linux" alt="Arch Linux" />
-  Linux · VS Code
+  <img src="assets/icons/vscode.svg" width="36" height="36" title="Visual Studio Code" alt="Visual Studio Code" />
 
 ---
 
