@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="330" viewBox="0 0 370 330" role="img" aria-labelledby="title desc">
+  <title id="title">Arch Linux ASCII logo</title>
+  <desc id="desc">A small blue Arch Linux logo revealed line by line. I use Arch, btw.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .row { animation: print .3s both; }
+    @keyframes print { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+    @media (prefers-reduced-motion: reduce) { .row { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="368" height="328" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="29" fill="#79c0ff" font-size="12">unknown@arch ~ $ neofetch</text>
+  <g fill="#1793d1" font-size="23" xml:space="preserve">
+    <text class="row" x="95" y="103" style="animation-delay:0s">      /\</text>
+    <text class="row" x="95" y="125" style="animation-delay:.1s">     /  \</text>
+    <text class="row" x="95" y="147" style="animation-delay:.2s">    /\   \</text>
+    <text class="row" x="95" y="169" style="animation-delay:.3s">   /      \</text>
+    <text class="row" x="95" y="191" style="animation-delay:.4s">  /   ,,   \</text>
+    <text class="row" x="95" y="213" style="animation-delay:.5s"> /   |  |  -\</text>
+    <text class="row" x="95" y="235" style="animation-delay:.6s">/_-''    ''-_\</text>
+  </g>
+  <text x="185" y="283" text-anchor="middle" fill="#c9d1d9" font-size="13">I use Arch, btw.</text>
+</svg>

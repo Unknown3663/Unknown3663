@@ -9,7 +9,7 @@
 <h3 align="center"><code>unknown@github ~ $ whoami</code></h3>
 <table align="center">
   <tr>
-    <td valign="top"><img src="assets/ezzat-ascii.svg" width="370" alt="An animated monochrome ASCII portrait of Ezzat" /></td>
+    <td valign="top"><img src="assets/arch-ascii.svg" width="370" alt="An animated small Arch Linux ASCII logo — I use Arch, btw" /></td>
     <td valign="top"><img src="assets/info-card.svg" width="490" alt="Ezzat: AI Builder and Digital Creator from Egypt, studying Tourism Guidance, learning JavaScript, using Arch Linux, and playing guitar" /></td>
   </tr>
 </table>
