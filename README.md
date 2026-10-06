@@ -1,26 +1,25 @@
-# Hi there, I'm Ezzat! 👋
+<h1 align="center">Hi, I’m Ezzat.</h1>
+<p align="center"><strong>AI Builder &amp; Digital Creator</strong> · Egypt · Arch Linux · Guitar</p>
 
-Front‑End • Arch Linux • Guitarist 🎸
-
-<p>
-  <a href="https://www.instagram.com/zez0dev/"><img src="assets/icons/instagram.svg" width="34" height="34" title="Follow @zez0dev on Instagram" alt="Follow @zez0dev on Instagram" /></a>&nbsp;
-  <a href="mailto:ezzatmagedsamir@gmail.com"><img src="assets/icons/email.svg" width="34" height="34" title="Email Ezzat" alt="Email Ezzat" /></a>
+<h3 align="center"><code>unknown@github ~ $ ./contributions.sh</code></h3>
+<p align="center">
+  <a href="https://github.com/Unknown3663?tab=overview"><img src="assets/contrib-heatmap.svg" width="860" alt="My contribution calendar, generated from real public GitHub data and refreshed daily" /></a>
 </p>
 
----
+<h3 align="center"><code>unknown@github ~ $ whoami</code></h3>
+<table align="center">
+  <tr>
+    <td valign="top"><img src="assets/ezzat-ascii.svg" width="370" alt="An animated monochrome ASCII portrait of Ezzat" /></td>
+    <td valign="top"><img src="assets/info-card.svg" width="490" alt="Ezzat: AI Builder and Digital Creator from Egypt, studying Tourism Guidance, learning JavaScript, using Arch Linux, and playing guitar" /></td>
+  </tr>
+</table>
 
-## 🚀 About Me
-I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tourism Guidance**. I love building things for the web, tinkering with Linux (btw), and automating little pieces of life.
+I’m a Tourism Guidance student from Egypt who enjoys turning ideas into web projects with AI. I’m learning JavaScript and front-end fundamentals as I go, tinkering with Linux, and making time for guitar.
 
-- 💻 Relearning and solidifying **Front‑End fundamentals**
-- 🐧 Daily driver: **Arch Linux**
-- 🎸 When I’m not coding, I’m probably playing guitar
+### `~/toolbox`
 
----
-
-## 🧰 Tech & Tools I Use
 <p>
-  <strong>Languages &amp; Frameworks</strong><br />
+  <strong>Learning &amp; Building With</strong><br />
   <img src="assets/icons/javascript.svg" width="32" height="32" title="JavaScript" alt="JavaScript" />&nbsp;
   <img src="assets/icons/react.svg" width="32" height="32" title="React" alt="React" />&nbsp;
   <img src="assets/icons/nodejs.svg" width="32" height="32" title="Node.js" alt="Node.js" />&nbsp;
@@ -29,7 +28,7 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
 </p>
 
 <p>
-  <strong>Tools</strong><br />
+  <strong>AI Tools</strong><br />
   <img src="assets/icons/anthropic.svg" width="32" height="32" title="Claude Code" alt="Claude Code" />&nbsp;
   <img src="assets/icons/codex.svg" width="32" height="32" title="Codex" alt="Codex" />&nbsp;
   <img src="assets/icons/antigravity.svg" width="32" height="32" title="Antigravity" alt="Antigravity" />&nbsp;
@@ -45,24 +44,16 @@ I'm a 20-year-old tech enthusiast from Egypt 🇪🇬, currently studying **Tour
   <img src="assets/icons/vscode.svg" width="32" height="32" title="Visual Studio Code" alt="Visual Studio Code" />
 </p>
 
----
 
-## 🛠️ What I Do
-- 🔹 **Front‑End Web Development**
-- 🔹 **Linux Enthusiast** (Arch user)
-- 🔹 **Guitar Player** 🎸
+### `~/outside-the-terminal`
 
----
+I enjoy experimenting with Linux distros, breaking things, and figuring out how to fix them. Away from the screen, you’ll probably find me playing guitar.
 
-## 📫 Connect With Me
-- 💬 Discord: `unknown.3663`
-- 📧 Email: [ezzatmagedsamir@gmail.com](mailto:ezzatmagedsamir@gmail.com)
+### `~/connect`
 
----
+<p>
+  <a href="https://www.instagram.com/zez0dev/"><img src="assets/icons/instagram.svg" width="34" height="34" title="Instagram: @zez0dev" alt="Instagram: @zez0dev" /></a>&nbsp;
+  <a href="mailto:ezzatmagedsamir@gmail.com"><img src="assets/icons/email.svg" width="34" height="34" title="Email Ezzat" alt="Email Ezzat" /></a>
+</p>
 
-## ⚡ Fun Fact
-I love experimenting with different Linux distros, and I always end up breaking something before fixing it again! 😆
-
----
-
-⭐ If something here sparks an idea, feel free to open an issue or start a discussion!
+Discord: `unknown.3663` · [Email](mailto:ezzatmagedsamir@gmail.com) · [Instagram](https://www.instagram.com/zez0dev/)

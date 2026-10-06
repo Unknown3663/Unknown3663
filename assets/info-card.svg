@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="330" viewBox="0 0 490 330" role="img" aria-labelledby="title desc">
+  <title id="title">Ezzat — AI Builder and Digital Creator</title>
+  <desc id="desc">From Egypt, studying Tourism Guidance. Learning JavaScript and front-end fundamentals, building with AI, using Arch Linux, and playing guitar.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #c9d1d9; font-size: 15px; }
+    .key { fill: #79c0ff; }
+    .line { animation: print .4s both; }
+    @keyframes print { from { opacity: .2; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="488" height="328" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="30" class="key">ezzat@github</text>
+  <path d="M24 46H466" stroke="#30363d"/>
+  <g class="line" style="animation-delay:.1s">
+    <text x="24" y="75" class="key">Role</text>
+    <text x="130" y="75">AI Builder &amp; Digital Creator</text>
+  </g>
+  <g class="line" style="animation-delay:.2s">
+    <text x="24" y="108" class="key">Location</text>
+    <text x="130" y="108">Egypt</text>
+  </g>
+  <g class="line" style="animation-delay:.3s">
+    <text x="24" y="141" class="key">Study</text>
+    <text x="130" y="141">Tourism Guidance</text>
+  </g>
+  <g class="line" style="animation-delay:.4s">
+    <text x="24" y="174" class="key">Learning</text>
+    <text x="130" y="174">JavaScript + front-end basics</text>
+  </g>
+  <g class="line" style="animation-delay:.5s">
+    <text x="24" y="207" class="key">Building</text>
+    <text x="130" y="207">Web projects with AI</text>
+  </g>
+  <g class="line" style="animation-delay:.6s">
+    <text x="24" y="240" class="key">OS</text>
+    <text x="130" y="240">Arch Linux (btw)</text>
+  </g>
+  <g class="line" style="animation-delay:.7s">
+    <text x="24" y="273" class="key">Offline</text>
+    <text x="130" y="273">Playing guitar</text>
+  </g>
+  <g class="line" style="animation-delay:.8s">
+    <rect x="24" y="298" width="16" height="8" fill="#79c0ff"/>
+    <rect x="45" y="298" width="16" height="8" fill="#1793d1"/>
+    <rect x="66" y="298" width="16" height="8" fill="#c9d1d9"/>
+    <rect x="87" y="298" width="16" height="8" fill="#39d353"/>
+  </g>
+</svg>
